@@ -1,0 +1,46 @@
+header {
+  text-align: center;
+  font-family: sans-serif;
+  border-style: double;
+  font-size: 200%;
+}
+* {
+  border-color: black;
+  background-size: contain;
+}
+h1 {
+  display: block;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  background-color: forestgreen;
+  font-size: 100%;
+  padding: 16px;
+  font-stretch: ultra-condensed;
+  text-align: center;
+}
+section {
+  padding-left: 2 rem;
+  font-stretch: inherit;
+  font-size: larger;
+}
+center {
+  background-color: aquamarine;
+}
+li {
+  background-color: lavenderblush;
+  text-decoration: double;
+  text-align: center;
+  font-size: 250%;
+}
+footer {
+  background-color: aqua;
+  font-size: 100%;
+}
+article {
+  font-style: oblique;
+  border-radius: 2%;
+  border-style: groove;
+  text-align: center;
+  justify-content: center;
+  background-color: rgb(203, 44, 100);
+  font-size: 200%;
+}
